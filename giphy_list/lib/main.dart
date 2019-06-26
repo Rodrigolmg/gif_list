@@ -5,7 +5,7 @@ import 'package:giphy_list/ui/gif_page.dart';
 void main(){
   runApp(MaterialApp(
     home: HomePage(),
-    theme: ThemeData(primaryColor: Colors.black),
+    theme: ThemeData(primaryColor: Colors.white),
   ));
 }
 
